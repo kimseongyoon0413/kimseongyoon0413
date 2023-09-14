@@ -1,4 +1,6 @@
-### Hi there 👋
+### 202334270 kim seong yoon
+
+My name is Seongyoon Kim and I am majoring in software. I look forward to learning more and learning more about GitHub in the future!
 
 <!--
 **kimseongyoon0413/kimseongyoon0413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
